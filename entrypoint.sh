@@ -7,9 +7,9 @@ sleep $wait_time
 echo executing script...
 
 # run the scripts in /schemas folder to create the DB and the tables
-for entry in "schemas/*.sql"
+for entry in schemas/*.sql
 do
-  echo executing $entry
+  echo executando $entry
   /opt/mssql-tools/bin/sqlcmd -S 0.0.0.0 -U sa -P $SA_PASSWORD -i $entry
 done
 
