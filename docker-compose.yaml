@@ -26,7 +26,7 @@ services:
     environment:
       ACCEPT_EULA: Y
       SA_PASSWORD: MangaStrongPassword123
-      DATABASE_NAME: gidi
+      DATABASE_NAME: titan
     # Não use esta configuração, se você não quiser persistir os dados entre o processo de docker up ou down.
     volumes_from:
       - mssqldata
