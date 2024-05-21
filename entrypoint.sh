@@ -14,5 +14,5 @@ do
 done
 
 # run scripts to populate by Bulk insert all these test data
-/opt/mssql-tools/bin/bcp dbo.Hoteis in data/Hoteis.csv -S localhost -U sa -P $SA_PASSWORD -d $DATABASE_NAME -c -t ','
-/opt/mssql-tools/bin/bcp dbo.Quartos in data/Quartos.csv -S localhost -U sa -P $SA_PASSWORD -d $DATABASE_NAME -c -t ','
+#/opt/mssql-tools/bin/bcp dbo.Hoteis in data/Hoteis.csv -S localhost -U sa -P $SA_PASSWORD -d $DATABASE_NAME -c -t ','
+#/opt/mssql-tools/bin/bcp dbo.Quartos in data/Quartos.csv -S localhost -U sa -P $SA_PASSWORD -d $DATABASE_NAME -c -t ','

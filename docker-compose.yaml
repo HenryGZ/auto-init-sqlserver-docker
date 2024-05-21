@@ -25,11 +25,10 @@ services:
     command: sh -c ' chmod +x ./entrypoint.sh; ./entrypoint.sh & /opt/mssql/bin/sqlservr;'
     environment:
       ACCEPT_EULA: Y
-      SA_PASSWORD: EmergingCode@2021
-      DATABASE_NAME: EmergingBooking
+      SA_PASSWORD: MangaStrongPassword123
+      DATABASE_NAME: gidi
     # Não use esta configuração, se você não quiser persistir os dados entre o processo de docker up ou down.
     volumes_from:
       - mssqldata
-
 networks:
   sqlservernet:
