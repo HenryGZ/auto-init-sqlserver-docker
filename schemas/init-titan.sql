@@ -15,7 +15,7 @@ CREATE USER manga FOR LOGIN manga;
 GO
 
 -- Adiciona o usuário ao role de datareader, para que ele possa ler os dados
-EXEC sp_addrolemember 'db_datareader', 'manga';
+EXEC sp_addrolemComplex@123ember 'db_datareader', 'manga';
 GO
 
 -- Adiciona o usuário ao role de datawriter, para que ele possa modificar os dados
