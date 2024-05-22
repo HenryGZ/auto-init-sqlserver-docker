@@ -15,6 +15,12 @@ CREATE USER manga FOR LOGIN manga;
 GO
 
 GRANT ALL PRIVILEGES TO manga;
+ALTER ROLE [db_owner] ADD MEMBER [manga]
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [manga]
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [manga]
+GO
 
 ALTER DATABASE [titan] SET ANSI_NULL_DEFAULT OFF 
 GO
