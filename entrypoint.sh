@@ -14,6 +14,7 @@ done
 # run scripts to populate by Bulk insert all these test data
 clear
 echo importando dados dos arquivos csv:
+echo "------------------------------------------------------------------------------------------------------"
 echo "tbUF"
 /opt/mssql-tools/bin/bcp titan.dbo.tbUF in data/tbUF.csv -S localhost -U sa -P $SA_PASSWORD -c -t ',' -r '\n'
 echo "------------------------------------------------------------------------------------------------------"
