@@ -30,8 +30,18 @@ for filename in tqdm(csv_files, desc="Processing files", unit="file"):
         # Remove as últimas colunas de cada linha que não têm um cabeçalho correspondente
         data = [row[:len(data[0])] for row in data]
 
+    # Verifica se todas as linhas têm o mesmo número de colunas
+    max_columns = max(len(row) for row in data)
+    if any(len(row) != max_columns for row in data):
+        print(f'Warning: Some rows in the file {filename} have a different number of columns. Padding rows with missing columns...')
+        # Adiciona células vazias nas linhas com colunas faltantes
+        data = [row + [''] * (max_columns - len(row)) for row in data]
+
     # Cria um DataFrame a partir dos dados
     df = pd.DataFrame(data[1:], columns=data[0])
+    
+    # Lê o arquivo CSV diretamente com pandas
+    df = pd.read_csv(file_path, skipinitialspace=True)
     
     # Escreve os dados de volta para o arquivo CSV
     df.to_csv(file_path, index=False)

@@ -1,20 +1,17 @@
 Id,NaturezaOperacao
-736E16AF-C516-4B74-9B10-01A4EBDE9D8B,Outras Saídas
-B311F775-0574-4133-A4D3-4D72348109C1,Simples Faturamento
-DE71F74F-0AD5-4983-9C8A-4E4328C3A2A6,Anulação de valor relativo a serviço de transporte
-E1B25916-7CE2-4AB4-A96D-58C8F55DA98B,Remessa para troca em garantia
-12CBE8B8-333C-45E9-A57D-62BB0D8D7E7C,Devolução de compra para comercialização
-EFA6663E-79EF-4245-80F7-7B36F13E6C1C,Transferência
-8E8BC4DA-8A1D-4F2C-A0C5-7B8D04E062FA,Devolução de compra de bem para o ativo imobilizado
-5874E2B2-367E-4554-AF22-94E7B81CCE04,Brinde ou bonificação
-587AE4CD-0802-433C-AC76-965C7616E2F8,Perda
-CA701D2C-28C6-4A98-8A93-97BF3CEEA95E,Devolução de compra de material de uso ou consumo
-3811592B-1650-4A45-90E2-99ABCB9C673E,Venda de ativo
-1B0533F6-5054-40FF-8871-9BC2FC2E694C,Entrada de devolução
-9029881C-C73F-4625-997D-9EA802D353F7,Consumo próprio
-A06E8195-F245-42ED-A1F5-A39021F77278,Devolu??o de compra de combust?vel ou lubrificante
-438BC31A-FC52-46DF-B453-C024F6039BB8,Devolução de compra de combustível ou lubrificante
-F0C847A5-968B-464F-B435-CB52B939A846,Remessa para conserto
-6001ADA7-3494-45D7-8B67-DD584944AD40,Outras Entradas
-E25ACAB6-FA99-4CDC-BF73-DEDE30A32B0F,Compra de ativo
-4C146C08-2EA7-4594-9C32-E42BFA58233A,Venda de combustível ou lubrificante
+5B02738B-7796-4715-B04A-097C01B9EADC,Devolução de compra de material de uso ou consumo
+48DF2DAE-C25A-4CCB-B93C-0FC41EEA1A61,Entrada de devolução
+F46D7A00-420F-4679-A2CC-15A332F20914,Remessa para conserto
+2CD6A6BF-C8DE-4DEA-B5BD-31EE70E0E8BB,Transferência
+BE68F010-8023-444C-BCAA-5288C996E2B0,Devolução de compra para comercialização
+0DB37DAC-0E23-434B-8B89-56A9038304F4,Perda
+482AEA92-F926-4E81-A4CA-6B708D7B3710,Devolu??o de compra de combust?vel ou lubrificante
+3229ABF2-0141-43E0-9D56-7A3FE7AF6319,Outras Entradas
+5677E644-A779-45DB-A3FA-8D079DB8584E,Remessa para troca em garantia
+00F34FCC-7089-46BB-9103-980E8D83D045,Simples Faturamento
+7A510B3D-B654-4C15-B697-9DE51F4531E0,Venda de combustível ou lubrificante
+B1E78A85-DB83-4941-9844-9F7BC690682B,Venda de ativo
+EE007152-F732-4BA1-A62C-A93CDBCA2B59,Consumo próprio
+0F7DEA84-68E3-47CE-9D99-BA5D28DF3A13,Devolução de compra de bem para o ativo imobilizado
+414DACDB-8FCD-490A-BEB9-BD97750D45E0,Brinde ou bonificação
+8EDC5A0A-8BEA-4402-AD68-CE5374E4D054,Outras Saídas

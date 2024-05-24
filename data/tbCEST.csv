@@ -1,56 +1,51 @@
-﻿Id,CEST,Descricao,NCM,Segmento,IdNCM
-2DE4D2D3-68CF-400D-939C-25DD9490120A,01.001.00,Catalisadores em colmeia cerÃ¢mica ou metÃ¡lica para conversÃ£o catalÃ­tica de gases de escape de veÃ­culos e outros catalisadores,,3815.12.10,01. AutopeÃ§as
-36A468D3-23F8-44CD-8E84-8E1DEA0918FA,01.001.00,Catalisadores em colmeia cerÃ¢mica ou metÃ¡lica para conversÃ£o catalÃ­tica de gases de escape de veÃ­culos e outros catalisadores,,3815.12.90,01. AutopeÃ§as
-AD3887E9-5787-4704-A856-90D3E435F26E,01.002.00,Tubos e seus acessÃ³rios (por exemplo,juntas,cotovelos,flanges
-13D3FB63-5D89-41A7-AE3A-A89684262F9E,01.003.00,Protetores de caÃ§amba,,3918.10.00,01. AutopeÃ§as
-ED571E81-3983-4FA8-870C-7B197B14BA8B,01.004.00,ReservatÃ³rios de Ã³leo,,3923.30.00,01. AutopeÃ§as
-618E8807-D088-4DEC-90D5-653CEC95159C,01.005.00,Frisos,decalques,molduras e acabamentos,
+Id,CEST,Descricao,NCM,Segmento,IdNCM
+D528B2BF-C8CD-41C8-B8BC-E1F8A2E9B060,17.004.00,Chocolates e outras preparaÃ§Ãµes alimentÃ­cias contendo cacau,em embalagens de conteÃºdo inferior ou igual a 1 kg,excluÃ­dos os achocolatados em pÃ³ e ovos de pÃ¡scoa de chocolate.,Fabricados em escala industrial nÃ£o relevante
+02DB3326-F3B9-47DC-88BF-5D861CC394A5,11.009.00,Esponjas para limpeza,,3924.90.00,11. Materiais de limpeza
+D64413B6-93A5-46F7-9270-EC2B2A4E0268,17.019.00,Creme de leite,em recipiente de conteÃºdo inferior ou igual a 1 kg,Fabricados em escala industrial nÃ£o relevante,0402.21.30
+010A2A0E-7899-4050-8F16-E848C96C71EF,28.052.00,Outros artefatos tÃªxteis confeccionados,,6307.90.90,28. Venda de mercadorias pelo sistema porta a porta
+7A5C77FD-F2DD-4626-9A77-EA33FA89B3AB,02.023.00,23.0,Sangrias e coquetÃ©is,,2206.00.90
+BD0ECC54-0FD4-49A5-AFA2-EB481CC753D3,01.108.00,Outros para-brisas,,6903.90.99,01. AutopeÃ§as
+5F1B45FF-11B2-4C97-8644-16BBC2AD620B,21.005.00,5.0,Congeladores (â€œfreezersâ€) horizontais tipo arca,de capacidade nÃ£o superior a 800 litros,
+E210976D-2D0B-4030-B51B-8FF4FA08B866,10.061.00,Outras obras moldadas,de ferro fundido,ferro ou aÃ§o,para uso na construÃ§Ã£o
+C6DACC0E-179C-4C11-B322-17F24AD0A9FA,21.108.00,108.0,BalanÃ§as de uso domÃ©stico,,8423.10.00
+557045A3-55FA-43F9-98C2-C95824D7FD40,21.109.00,109.0,Tubos e vÃ¡lvulas,eletrÃ´nicos,de cÃ¡todo quente
+26C11F61-C90B-42EF-BB57-98CCBAA28DC1,21.063.00,63.0,CartÃµes inteligentes (smart cards),,8523.52.00
+49F59886-12BD-472E-B88C-D13FF32003FB,20.012.00,PreparaÃ§Ãµes para manicuros e pedicuros,incluindo removedores de esmalte Ã  base de acetona,,3304.30.00
+26A157C8-B7B0-40A6-BA2F-682712767D6E,17.003.00,Chocolate em barras,tabletes ou blocos ou no estado lÃ­quido,em pasta,em pÃ³
+F0F32BD0-B721-445F-97CD-048FD34C1FBE,20.029.00,Outros desodorantes (desodorizantes) corporais,,3307.20.90,20. Produtos de perfumaria e de higiene pessoal e cosmÃ©ticos
+BD79A9DF-8DA7-466C-84AE-9231ABA9D00F,20.032.00,Outros produtos de perfumaria preparados,,3307.90.00,20. Produtos de perfumaria e de higiene pessoal e cosmÃ©ticos
+51A61C81-460B-4472-8139-588E116D5ABE,21.014.00,14.0,Partes das secadoras de roupas e centrÃ­fugas de uso domÃ©stico e dos aparelhos para filtrar ou depurar Ã¡gua,descritos nos CEST 21.011.00 e 21.012.00 e 21.098.00,
+766B8915-F258-433D-8949-8F9ACF14F020,01.045.00,Partes reconhecÃ­veis como exclusiva ou principalmente destinadas Ã s mÃ¡quinas agrÃ­colas ou rodoviÃ¡rias,,8431.49.2,01. AutopeÃ§as
+4E5815D0-514A-4D99-82A8-DCA156DB3D7C,28.057.00,Outros artigos destinados a cuidados pessoais nÃ£o relacionados em outros itens deste anexo,,64,28. Venda de mercadorias pelo sistema porta a porta
+279575B2-67EE-4351-902F-34D73F5F7244,21.080.00,80.0,Multiplexadores e concentradores,,8517.62.1
+0C07BFA7-7CD8-4DD2-BF08-74C1BA77095A,20.024.00,Fios utilizados para limpar os espaÃ§os interdentais (fios dentais),,3306.20.00,20. Produtos de perfumaria e de higiene pessoal e cosmÃ©ticos
+023D3572-597C-409E-BC19-20E171A6030A,28.059.00,VestuÃ¡rio e seus acessÃ³rios; calÃ§ados,polainas e artefatos semelhantes,e suas partes,
+B4F0A047-1FD8-4F38-962D-7137A491C51F,17.096.01,CafÃ© torrado e moÃ­do,em embalagens de conteÃºdo superior a 2 kg,,0901
+CA689B0B-20B4-4337-9219-111DA39553A0,14.011.00,produtos cerÃ¢micos e vidros,11.0,Filtros descartÃ¡veis para coar cafÃ© ou chÃ¡,
+9AC59D55-5E29-4768-83A1-16D9138933CD,20.035.00,Outros sabÃµes,produtos e preparaÃ§Ãµes,em barras,pedaÃ§os ou figuras moldados
+F195675C-3A9D-4E5E-A888-CDC3D013FC53,17.046.02,Misturas e preparaÃ§Ãµes para bolos,em embalagem superior a 5 kg e inferior ou igual a 25 Kg,Fabricados em escala industrial nÃ£o relevante,1901.90.90
 6D61E214-2F95-44F9-A4A3-5D9DE2304CEB,01.006.00,Correias de transmissÃ£o de borracha vulcanizada,de matÃ©rias tÃªxteis,mesmo impregnadas,revestidas ou recobertas
-87AFE997-00DE-4228-8A90-64476DFCA03D,01.006.00,Correias de transmissÃ£o de borracha vulcanizada,de matÃ©rias tÃªxteis,mesmo impregnadas,revestidas ou recobertas
-B26BCA02-8D6E-4248-8DCE-B13A23D133F1,01.007.00,Juntas,gaxetas e outros elementos com funÃ§Ã£o semelhante de vedaÃ§Ã£o,,4016.93.00
-A625B3B6-EC68-4951-BDE0-20573A075CCD,01.007.00,Juntas,gaxetas e outros elementos com funÃ§Ã£o semelhante de vedaÃ§Ã£o,,4823.90.9
-0905F4BA-76D0-4657-BCE8-4B826265F7D4,01.008.00,Partes de veÃ­culos automÃ³veis,tratores e mÃ¡quinas autopropulsadas,,4016.10.10
-20B108FE-4650-4D56-A276-F33FF1EB2A99,01.009.00,Tapetes,revestimentos,mesmo confeccionados,batentes
-6E1282D2-1AEA-422C-88D5-FA7A1DB2D50D,01.009.00,Tapetes,revestimentos,mesmo confeccionados,batentes
-1D2049EE-ACD3-45D7-8ECA-46AD7616F0DD,01.010.00,Tecidos impregnados,revestidos,recobertos ou estratificados,com plÃ¡stico
-13261A13-6528-4106-8B3F-5E2F3CC45CA2,01.011.00,Mangueiras e tubos semelhantes,de matÃ©rias tÃªxteis,mesmo com reforÃ§o ou acessÃ³rios de outras matÃ©rias,
-B4A239A4-7AF8-49A9-B70D-6E7F14681C40,01.012.00,Encerados e toldos,,6306.1,01. AutopeÃ§as
-E9D50195-6AEE-4AE5-A853-9A10F49A38BF,01.013.00,Capacetes e artefatos de uso semelhante,de proteÃ§Ã£o,para uso em motocicletas,incluÃ­dos ciclomotores
-34441922-2B24-40E3-A219-66625F0753DD,01.014.00,GuarniÃ§Ãµes de fricÃ§Ã£o (por exemplo,placas,rolos,tiras
-4175283C-A4A7-4E48-9396-3273B46B16FB,01.015.00,Vidros de dimensÃµes e formatos que permitam aplicaÃ§Ã£o automotiva,,7007.11.00,01. AutopeÃ§as
-EB609060-B5D8-4F46-9250-D360C7C927F4,01.015.00,Vidros de dimensÃµes e formatos que permitam aplicaÃ§Ã£o automotiva,,7007.21.00,01. AutopeÃ§as
-A3825956-AEE4-4FDF-BD16-6CEA226623F3,01.016.00,Espelhos retrovisores,,7009.10.00,01. AutopeÃ§as
-765D2909-9D96-4D9B-B681-797A40F56232,01.017.00,Lentes de farÃ³is,lanternas e outros utensÃ­lios,,7014.00.00
-F5066CED-403F-402C-9D20-0A76F5F8DE25,01.018.00,Cilindro de aÃ§o para GNV (gÃ¡s natural veicular),,7311.00.00,01. AutopeÃ§as
-BDBDDB72-708F-436F-955A-E6AFA5952E5F,01.019.00,Recipientes para gases comprimidos ou liquefeitos,de ferro fundido,ferro ou aÃ§o,exceto o descrito no item 18.0
-D696BCE8-8764-4B05-BB01-1058B286BD5E,01.020.00,Molas e folhas de molas,de ferro ou aÃ§o,,7320
-B4EA2F9C-177A-4128-A37A-65472E38C86E,01.021.00,Obras moldadas,de ferro fundido,ferro ou aÃ§o,exceto as do cÃ³digo 7325.91.00
-9DA9F26B-E427-468F-873C-25CF943EA37E,01.022.00,Peso de chumbo para balanceamento de roda,,7806.00,01. AutopeÃ§as
-CD657859-61C9-4E18-8265-AAEF4CB6953C,01.023.00,Peso para balanceamento de roda e outros utensÃ­lios de estanho,,8007.00.90,01. AutopeÃ§as
-231833AA-A15B-41EF-8652-63B347A046D0,01.024.00,Fechaduras e partes de fechaduras,,8301.20,01. AutopeÃ§as
-78CB3A97-CF16-4770-939F-DC77135670EA,01.024.00,Fechaduras e partes de fechaduras,,8301.60,01. AutopeÃ§as
-CBB3E0E4-DF43-4FC8-8ACB-E366E20FB240,01.025.00,Chaves apresentadas isoladamente,,8301.70,01. AutopeÃ§as
-D90F3604-6DBC-4E54-A20A-E892A402CBFF,01.026.00,DobradiÃ§as,guarniÃ§Ãµes,ferragens e artigos semelhantes de metais comuns,
-C0962281-33CC-48EC-9054-6FBAE212820C,01.026.00,DobradiÃ§as,guarniÃ§Ãµes,ferragens e artigos semelhantes de metais comuns,
-9DB9A08A-23CA-4433-A1EC-F6B2A56B6B19,01.027.00,TriÃ¢ngulo de seguranÃ§a,,8310.00,01. AutopeÃ§as
-99F7C575-8E80-48A8-8F8B-3E802561D9BE,01.028.00,Motores de pistÃ£o alternativo dos tipos utilizados para propulsÃ£o de veÃ­culos do CapÃ­tulo 87,,8407.3,01. AutopeÃ§as
-4EE10862-6C70-401D-9635-A7D9D92F7BB8,01.029.00,Motores dos tipos utilizados para propulsÃ£o de veÃ­culos automotores,,8408.20,01. AutopeÃ§as
-FDD4D22E-4ED2-4662-9333-8E8000B03542,01.030.00,Partes reconhecÃ­veis como exclusiva ou principalmente destinadas aos motores das posiÃ§Ãµes 8407 ou 8408,,8409.9,01. AutopeÃ§as
-1441FBA4-15F6-433D-B931-703C4F4E1252,01.031.00,Motores hidrÃ¡ulicos,,8412.2,01. AutopeÃ§as
-4317A53B-BE13-4374-A583-856F5A73AE50,01.032.00,Bombas para combustÃ­veis,lubrificantes ou lÃ­quidos de arrefecimento,prÃ³prias para motores de igniÃ§Ã£o por centelha ou por compressÃ£o,
-07B3934F-C748-41C2-8488-2A2386861820,01.033.00,Bombas de vÃ¡cuo,,8414.10.00,01. AutopeÃ§as
-0CFC73EF-C37A-4604-A417-4FC6DB2A1E1A,01.034.00,Compressores e turbocompressores de ar,,8414.80.1,01. AutopeÃ§as
-57C4FCCD-195B-4D8A-B853-B0561B52AA4C,01.034.00,Compressores e turbocompressores de ar,,8414.80.2,01. AutopeÃ§as
-E830C6FE-471D-4D4A-9044-6820C8F82B88,01.035.00,Partes das bombas,compressores e turbocompressores dos CEST 01.032.00,01.033.00 e 01.034.00,
-A12E4B26-15AD-46C1-91C4-0E8F489DBC0F,01.035.00,Partes das bombas,compressores e turbocompressores dos CEST 01.032.00,01.033.00 e 01.034.00,
-3AC2F6F2-759E-44EC-9500-1F8F524FA94A,01.035.00,Partes das bombas,compressores e turbocompressores dos CEST 01.032.00,01.033.00 e 01.034.00,
-59F1E8D3-B109-4307-A48F-02041795D6A0,01.035.00,Partes das bombas,compressores e turbocompressores dos CEST 01.032.00,01.033.00 e 01.034.00,
-2D0B035A-FEC5-4556-A4A4-52454793627F,01.036.00,MÃ¡quinas e aparelhos de ar condicionado,,8415.20,01. AutopeÃ§as
-CF0DD050-6328-4E96-92CD-B965637F8A5D,01.037.00,Aparelhos para filtrar Ã³leos minerais nos motores de igniÃ§Ã£o por centelha ou por compressÃ£o,,8421.23.00,01. AutopeÃ§as
-CDBD070F-4E57-4E4B-B974-48890C5B3A9E,01.038.00,Filtros a vÃ¡cuo,,8421.29.90,01. AutopeÃ§as
-744AAD39-E411-44EC-8368-DAAF03E6CE6E,01.039.00,Partes dos aparelhos para filtrar ou depurar lÃ­quidos ou gases,,8421.9,01. AutopeÃ§as
-,,,,,
-(50 rows affected),,,,,
-,,,,,
-,,,,,
-Completion time: 2024-05-22T10:04:39.6952445-03:00,,,,,
+09435946-75BE-41F3-907B-535C853BD1F9,17.080.01,Outras preparaÃ§Ãµes e conservas de atuns,Fabricados em escala industrial nÃ£o relevante,1604.20.10,17. Produtos alimentÃ­cios
+5B826808-9602-4CD9-9031-74715C7BC882,10.064.00,Tubos de cobre e suas ligas,para instalaÃ§Ãµes de Ã¡gua quente e gÃ¡s,para uso na construÃ§Ã£o,
+F7A8534D-1011-4D83-94AE-5567E6EBE5D9,12.005.00,Partes reconhecÃ­veis como exclusiva ou principalmente destinadas aos aparelhos das posiÃ§Ãµes 8535 e 8536,,8538,12. Materiais elÃ©tricos
+5A53D5F8-1BFB-4988-844C-78425F909E57,01.094.00,Motoventiladores,,8414.59.90,01. AutopeÃ§as
+6E78B0CF-D27D-43D9-918D-1BBE328F4368,17.101.02,AÃ§Ãºcar cristal,em embalagens de conteÃºdo superior a 5 kg,,1701.99.00
+1FD5CB28-6142-466E-B9CA-2A69432D53FE,20.008.00,Ãguas-de-colÃ´nia,,3303.00.20,20. Produtos de perfumaria e de higiene pessoal e cosmÃ©ticos
+3683FAC9-9B60-411A-A61B-32D9EF1814CB,17.104.00,Outros tipos de aÃ§Ãºcar adicionado de aromatizante ou de corante,em embalagens de conteÃºdo inferior ou igual a 2 kg,exceto as embalagens contendo envelopes individualizados (sachÃªs) de conteÃºdo inferior ou igual a 10 g,
+41224363-D45B-4233-8501-C7927D2476EA,20.013.00,PÃ³s,incluÃ­dos os compactos,para maquilagem,
+C1B20029-2207-4612-AB65-14AFE71E4A23,03.010.00,refrigerantes,Ã¡guas e outras bebidas,10.0,Refrigerante em garrafa com capacidade igual ou superior a 600 ml
+397C0733-F1BC-49A7-B3C0-D92ECD48019E,02.006.00,6.0,Conhaque,brandy e similares,
+C290CCFA-5F0A-4486-B7C9-24D3DC67726B,28.063.00,Produtos de limpeza e conservaÃ§Ã£o domÃ©stica,,28,28. Venda de mercadorias pelo sistema porta a porta
+415B4F82-0AF9-47C1-9BA1-318756BC03D7,28.025.00,Apontadores de lÃ¡pis para maquiagem,,8214.10.00,28. Venda de mercadorias pelo sistema porta a porta
+FAF58C74-EFCE-4D27-8115-B7752A237243,14.008.00,produtos cerÃ¢micos e vidros,8.0,Artigos para serviÃ§o de mesa ou de cozinha,de porcelana
+050E7F95-625D-4FF5-A744-A9090843DB04,28.063.00,Produtos de limpeza e conservaÃ§Ã£o domÃ©stica,,68,28. Venda de mercadorias pelo sistema porta a porta
+85D63182-1B0C-4DF4-B953-5F300E2F0D21,19.020.00,Livros de registro e de contabilidade,blocos de notas,de encomendas,de recibos
+913D047F-5362-42C3-821C-7EF021534AAB,21.072.00,72.0,Outros aparelhos receptores de televisÃ£o nÃ£o dotados de monitores ou display de vÃ­deo,,8528.7
+8183CD6C-E390-4358-873A-520757095A6E,08.006.00,LÃ¢minas de serras mÃ¡quinas,,8202.91.00,08. Ferramentas
+8B3E89D6-7CAD-4D3E-8568-98BAAD99E988,17.113.00,Bebidas prontas Ã  base de mate ou chÃ¡,Fabricados em escala industrial nÃ£o relevante,2101.20,17. Produtos alimentÃ­cios
+D770C04A-482E-49D9-9D30-08A60F1929BA,21.004.00,4.0,Outros refrigeradores do tipo domÃ©stico,,8418.29.00
+E365CC87-89DA-460B-A6A3-98827DB709D5,20.009.00,Produtos de maquilagem para os lÃ¡bios,,3304.10.00,20. Produtos de perfumaria e de higiene pessoal e cosmÃ©ticos
+42D449AF-EF47-4A9B-B780-E4CAEA9DD98B,17.059.00,Torradas,pÃ£o torrado e produtos semelhantes torrados,Fabricados em escala industrial nÃ£o relevante,1905.40.00
+07A6F334-487F-4F7D-9852-E6FFC41F64E9,13.004.00,Outros tipos de medicamentos - positiva,exceto para uso veterinÃ¡rio,,3004
+E8207C10-8E72-429E-BC6D-91DEBD52879F,17.083.00,Carne de gado bovino,ovino e bufalino e produtos comestÃ­veis resultantes da matanÃ§a desse gado submetidos Ã  salga,secagem ou desidrataÃ§Ã£o,Fabricados em escala industrial nÃ£o relevante
+8FA078B6-4960-43A8-956E-BDFFF2A081ED,21.100.00,100.0,Furadeiras elÃ©tricas,,8467.21.00
