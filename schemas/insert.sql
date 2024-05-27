@@ -11,13 +11,13 @@ VALUES
 ('SE', 'Sergipe', '92434030-9B81-4FFC-98C8-6A522ED345DF', 25),
 ('PE', 'Pernambuco', 'D0645F1E-BF0F-46D1-8659-DE9869F23081', 16);
 
-INSERT INTO tbAliquotaICMSInterestadual (EstadoOrigem, EstadoDestino, Aliquota)
+INSERT INTO tbAliquotaICMSIinterEstadual (Id, EstadoId, AliquotaIcms)
 VALUES
-('E87339E9-7983-4DAB-BC0A-4064DD4D7A70','6E58E7AF-339A-487A-80F6-0F7E9DBB0A30',12)
-('24BC5AF6-886E-4C57-B1E0-48A34C329227','27D0715B-E126-4013-805D-06BC05182AB9',7)
-('F3AD4723-1B92-4459-BF1D-AC50CA8CEF9D','334F1B0E-7EB9-4682-8E52-E74ABDAB950F',12)
-('70501638-D1F9-47A4-8BDC-10139CDB4281','9A7A55FB-1063-4218-9E73-1C085CEE6901',7)
-('7BB61384-CFD3-49F7-A428-FB63FE4DB8D8','83E2A341-8AF9-4A7A-85C8-9A0DFD4D20FF',7)
+('E87339E9-7983-4DAB-BC0A-4064DD4D7A70','6E58E7AF-339A-487A-80F6-0F7E9DBB0A30',12),
+('24BC5AF6-886E-4C57-B1E0-48A34C329227','27D0715B-E126-4013-805D-06BC05182AB9',7),
+('F3AD4723-1B92-4459-BF1D-AC50CA8CEF9D','334F1B0E-7EB9-4682-8E52-E74ABDAB950F',12),
+('70501638-D1F9-47A4-8BDC-10139CDB4281','9A7A55FB-1063-4218-9E73-1C085CEE6901',7),
+('7BB61384-CFD3-49F7-A428-FB63FE4DB8D8','83E2A341-8AF9-4A7A-85C8-9A0DFD4D20FF',7),
 ('5AF419DD-E839-4A7D-AE1D-436EEE4E350A','4E1BBD67-BD06-4D66-99AA-EA8B376664D1',7);
 
 INSERT INTO tbBancos (NumBanco, Nome, Id)
@@ -31,12 +31,12 @@ VALUES
 (756, 'Banco Cooperativo do Brasil S.A. - BANCOOB', 'D2C55CCA-E4CF-4678-9B30-E6D5EDB154B4'),
 (748, 'Banco Cooperativo Sicredi S.A.', 'D1568AE7-CE57-4835-A6DA-D3B0465E22A6');
 
-INSERT INTO tbBombasLacres (Id, NumeroLacre, DataAplicacao, NumeroBomba, IdPosto)
+INSERT INTO tbBombaLacres (Id, NumeroLacre, DataAplicacao, NumeroBomba, IdPosto)
 VALUES
-('092FCA9F-260D-4ADC-A22F-06ACE19F3B47', 'D4865208-5', '2014-01-01 00:00:00', 4, 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0'),
-('76379560-D125-46E5-B5DB-3C2240EC52C1', 'I0007915-0', '2014-01-01 00:00:00', 1, 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0'),
-('655D1508-3334-4C10-AE03-485E76250A5D', 'D4865215-0', '2014-01-01 00:00:00', 2, 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0'),
-('2EAE4DD7-C416-40C5-A7AB-D9D63BABFFE9', 'D4865213-5', '2014-01-01 00:00:00', 1, 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0');
+('092FCA9F-260D-4ADC-A22F-06ACE19F3B47', CAST('D4865208-5' AS NVARCHAR(50)), '2014-01-01 00:00:00', CAST(4 AS NVARCHAR(50)), 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0'),
+('76379560-D125-46E5-B5DB-3C2240EC52C1', CAST('I0007915-0' AS NVARCHAR(50)), '2014-01-01 00:00:00', CAST(1 AS NVARCHAR(50)), 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0'),
+('655D1508-3334-4C10-AE03-485E76250A5D', CAST('D4865215-0' AS NVARCHAR(50)), '2014-01-01 00:00:00', CAST(2 AS NVARCHAR(50)), 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0'),
+('2EAE4DD7-C416-40C5-A7AB-D9D63BABFFE9', CAST('D4865213-5' AS NVARCHAR(50)), '2014-01-01 00:00:00', CAST(1 AS NVARCHAR(50)), 'A94EB478-1BCF-4A4E-9039-0748EC51BBE0');
 
 INSERT INTO tbBombas (NumBomba, Encerrante, Ativo, InativoEm, NumeroBomba, Canal, Id, IdPosto, IdTanque, NumeroSerie, Fabricante, Modelo, TipoMedicao, LimiteEncerrante)
 VALUES
@@ -52,9 +52,9 @@ VALUES
 
 INSERT INTO tbCaixaItens (TipoLeitura, idObjeto, ValorCalculado, ValorLido, Id, IdCaixa, PrecoProduto)
 VALUES
-(T, 1, 100.0, 100.0, NEWID(), NEWID(), 10.0),
-(B, 2, 200.0, 200.0, NEWID(), NEWID(), 20.0),
-(B, 3, 300.0, 300.0, NEWID(), NEWID(), 30.0);
+('T', 1, 100.0, 100.0, NEWID(), NEWID(), 10.0),
+('B', 2, 200.0, 200.0, NEWID(), NEWID(), 20.0),
+('B', 3, 300.0, 300.0, NEWID(), NEWID(), 30.0);
 
 INSERT INTO tbCarretaTransportadora (Placa, Compartimento, Id, IdTransportadora, Ativo)
 VALUES
@@ -66,12 +66,9 @@ VALUES
 
 INSERT INTO tbCEST (Id, CEST, Descricao, NCM, Segmento, IdNCM)
 VALUES
-('D528B2BF-C8CD-41C8-B8BC-E1F8A2E9B060', '17.004.00', 'Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, excluídos os achocolatados em pó e ovos de páscoa de chocolate.', 'Fabricados em escala industrial não relevante', NULL, NULL),
-('02DB3326-F3B9-47DC-88BF-5D861CC394A5', '11.009.00', 'Esponjas para limpeza', NULL, '3924.90.00', '11. Materiais de limpeza'),
+('D528B2BF-C8CD-41C8-B8BC-E1F8A2E9B060', '17.004.00', 'Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, excluídos os achocolatados em pó e ovos de páscoa de chocolate.', 'Fabricados em escala industrial não relevante', ' ', NULL),
+('02DB3326-F3B9-47DC-88BF-5D861CC394A5', '11.009.00', 'Esponjas para limpeza', ' ', '3924.90.00', '11. Materiais de limpeza'),
 ('D64413B6-93A5-46F7-9270-EC2B2A4E0268', '17.019.00', 'Creme de leite, em recipiente de conteúdo inferior ou igual a 1 kg', 'Fabricados em escala industrial não relevante', '0402.21.30', NULL),
-('010A2A0E-7899-4050-8F16-E848C96C71EF', '28.052.00', 'Outros artefatos têxteis confeccionados', NULL, '6307.90.90', '28. Venda de mercadorias pelo sistema porta a porta'),
-('7A5C77FD-F2DD-4626-9A77-EA33FA89B3AB', '02.023.00', '23.0, Sangrias e coquetéis', NULL, '2206.00.90', NULL),
-('BD0ECC54-0FD4-49A5-AFA2-EB481CC753D3', '01.108.00', 'Outros para-brisas', NULL, '6903.90.99', '01. Autopeças');
-
-INSERT INTO tbCFOP (id,CFOP,NaturezaOperacao,Descricao,Ativo)
-VALUES
+('010A2A0E-7899-4050-8F16-E848C96C71EF', '28.052.00', 'Outros artefatos têxteis confeccionados', ' ', '6307.90.90', '28. Venda de mercadorias pelo sistema porta a porta'),
+('7A5C77FD-F2DD-4626-9A77-EA33FA89B3AB', '02.023.00', '23.0, Sangrias e coquetéis', ' ', '2206.00.90', ' '),
+('BD0ECC54-0FD4-49A5-AFA2-EB481CC753D3', '01.108.00', 'Outros para-brisas', ' ', '6903.90.99', '01. Autopeças');
